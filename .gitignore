@@ -1,0 +1,6 @@
+.json
+.toml
+.pickle
+.yaml
+/.idea
+/__pycache__
